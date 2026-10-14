@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+api_key.txt
+*.pem
+*.key
+.agent/
+.agent-handoff/
+.codex/
+.codex-handoff/
+.DS_Store
+Thumbs.db
